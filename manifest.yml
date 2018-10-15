@@ -1,6 +1,6 @@
 ---
 applications:
-- name: rabbitmqProxy
+- name: rabbit-proxy
   memory: 256M
   instances: 1
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack.git
